@@ -1,0 +1,1 @@
+// Skapa ytterligare ett graf värde kopplat till formuläret och grafen som bestämmer antal liter syrgas patienten har vid bedömningstillfället. Specifiera sedan den blå grafen som NEWS-poängen och gör den andra grafen röd och specifiera att den är syrgasen
