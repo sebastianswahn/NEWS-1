@@ -6,7 +6,6 @@ export const ScoreModal = ({
   warning,
   hasThreePoints,
   name,
-  setName,
 }) => {
   const saveScore = () => {
     const timestamp = new Date();
