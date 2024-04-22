@@ -110,9 +110,9 @@ export const CalcForm = () => {
   };
 
   return (
-    <div className="p-2 h-screen z-10">
+    <div className="p-2 h-screen z-10 bg-slate-300">
       <form
-        className="bg-slate-400 p-4 flex-row m-auto"
+        className="bg-slate-400 p-4 flex-row m-auto max-w-2xl rounded-lg"
         onSubmit={handleSubmit}
       >
         {showScoreModal && (
