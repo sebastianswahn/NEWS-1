@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import totalScoreCounter from "./scoreCounter";
-import { ScoreModal } from "./scoreModal";
+import { ScoreModal } from "./ScoreModal";
 
 export const CalcForm = () => {
   const [RR, setRR] = useState("");
